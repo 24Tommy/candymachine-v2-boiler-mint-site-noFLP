@@ -146,7 +146,7 @@ export const publicSaleSettings: PublicSaleSettings = {
 
   //Title and Description
   title: "Public Sale",
-  desc: "Ethereal Dragons mint is now live.",
+  desc: "Gain access to Heresy Chamber.",
 
   //Enable Custom HTML
   enableCustomHTML: false,

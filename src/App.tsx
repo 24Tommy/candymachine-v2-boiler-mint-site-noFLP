@@ -65,9 +65,7 @@ const App = () => {
           <li>
             <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
             <div className="social-icons">
-            <a href="https://twitter.com/EtherealNFT" target="_blank">
                 <img className="nav-social" src="/icons/twitter.svg" alt="" />
-            </a>
               <img className="nav-social" src="/icons/discord.svg" alt="" />
             </div>
           </li>
@@ -80,10 +78,10 @@ const App = () => {
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
           <div className="social-icons hide-800">
-          <a href="https://twitter.com/EtherealNFT" target="_blank">
+          <a href="https://twitter.com/HeresyChamber" target="_blank" rel="noreferrer">
             <img className="nav-social" src="/icons/twitter.svg" alt="" />
           </a>
-          <a href="https://discord.gg/9x8J5UPeaM" target="_blank">
+          <a href="https://discord.gg/heresychamber" target="_blank" rel="noreferrer">
             <img className="nav-social" src="/icons/discord.svg" alt="" />
           </a>
           </div>
@@ -92,9 +90,9 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="text-secondary-color">Welcome To</h3>
-              <h1 className="pb-2">Ethereal Dragons</h1>
-              <img src="Ethgif.gif"/>
+              <h3 className="text-secondary-color">Enter</h3>
+              <h1 className="pb-2">HERESY CHAMBER</h1>
+              <img src="HCGIF.gif" alt=""/>
             </div>
             <div>
               <ThemeProvider theme={theme}>
