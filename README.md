@@ -10,20 +10,20 @@ Donations can be made at tonyboyle.sol if you are feeling generous!
 
 # Installation
 
-Clone the repo from the url below.
+1. Clone the repo from the url below.
 
- 	git clone https://github.com/tonyboylehub/candymachine-v2-boiler-mint-site-noFLP.git
+	```git clone https://github.com/tonyboylehub/candymachine-v2-boiler-mint-site-noFLP.git```
 
-Open a terminal in the root of the cloned repo and run yarn install to install all the required dependencies
+2. Open a terminal in the root of the cloned repo and run yarn install to install all the required dependencies
 
-	yarn install
+	```yarn install```
 
-Rename .env-example to .env and fill it with your own data variables.
+3. Rename `.env-example` to `.env` and fill it with your own data variables.
 
 
-Run yarn start and all should pop up.
+4. Run yarn start and all should pop up.
 
-	yarn start
+	```yarn start```
 
 ---
 
